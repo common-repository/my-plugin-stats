@@ -1,0 +1,57 @@
+table.servicesT
+{ font-family: Verdana;
+font-weight: normal;
+font-size: 11px;
+color: #404040;
+width: 320px;
+background-color: #fafafa;
+border: 1px #6699CC solid;
+border-collapse: collapse;
+border-spacing: 0px;
+margin-top: 0px;}
+
+
+table.servicesT td.servHd
+{ 
+border-bottom: 1px solid #6699CC;
+background-color: #BEC8D1;
+text-align: left;
+font-family: Verdana;
+font-weight: bold;
+font-size: 11px;
+color: #404040;}
+
+table.servicesT th.servHd
+{
+border-bottom: 1px solid #6699CC;
+background-color: #BEC8D1;
+text-align: left;
+font-family: Verdana;
+font-weight: bold;
+font-size: 11px;
+color: #404040;}
+
+table.servicesT th
+{
+border-bottom: 1px solid #6699CC;
+border-left: 1px solid #6699CC;
+font-family: Verdana, sans-serif, Arial;
+font-weight: normal;
+font-size: 11px;
+color: #404040;
+background-color: white;
+text-align: left;
+padding-left: 3px;}
+
+
+table.servicesT td
+{ 
+border-bottom: 1px solid #6699CC;
+font-family: Verdana, sans-serif, Arial;
+font-weight: normal;
+font-size: 11px;
+color: #404040;
+background-color: white;
+text-align: left;
+padding-left: 3px;}
+
